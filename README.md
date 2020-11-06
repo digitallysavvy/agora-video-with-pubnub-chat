@@ -1,5 +1,5 @@
 # Agora Video with PubNub Chat Web App
-![](https://miro.medium.com/max/1400/1*XEu9XT-U1RKmuTtz8k3qMQ.png)
+![](https://miro.medium.com/max/1400/1*O7M6oK5Lvr-40lFBmNzb4g.png)
 This is a group video chat web app that uses [Agora.io](https://www.agora.io) and [PubNub](https://www.pubnub.com) to build a simple group video chat web app, very similar to Skype or whichever other video chat platform you prefer. 
 
 ## Pre Requisites
@@ -9,7 +9,8 @@ This is a group video chat web app that uses [Agora.io](https://www.agora.io) an
 - An understanding of HTML/CSS/JS 
 - An understand of how Bootstrap and JQuery function _(minimal knowledge needed)_
 
-Read the full tutorial: [GUIDE.MD](/GUIDE.MD)
+Base Project tutorial: [GUIDE.MD](/GUIDE.MD)   
+PubNub Chat Add-on tutorial: [Add PubNub Chat to Agora Video Web App](https://www.agora.io/en/blog/adding-pubnub-chat-to-an-agora-video-web-app/)
 
 ## Hosted Demo ##
 If you would like to see the demo in action, check out the [demo of the code in action](https://digitallysavvy.github.io/agora-video-with-pubnub-chat/?uid=10001) on GitHub Pages 
